@@ -1,6 +1,7 @@
 Helpful resources:
 https://xavierbourretsicotte.github.io/loess.html
 https://www.statsmodels.org/devel/generated/statsmodels.nonparametric.smoothers_lowess.lowess.html
+https://gist.github.com/agramfort/850437
 
 
 William S. Cleveland: "Robust locally weighted regression and smoothing

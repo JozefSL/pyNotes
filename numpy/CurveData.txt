@@ -1,0 +1,13 @@
+region,parameter_type,name,m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12
+Permian,coefficients,qi,800,0,0,0,0,0,0,0,0,0,0,0
+Permian,coefficients,di_annual,0.70,0,0,0,0,0,0,0,0,0,0,0
+Permian,coefficients,b_factor,0.5,0,0,0,0,0,0,0,0,0,0,0
+Permian,schedule,well_count,2,2,3,3,4,4,2,2,1,1,0,0
+EagleFord,coefficients,qi,500,0,0,0,0,0,0,0,0,0,0,0
+EagleFord,coefficients,di_annual,0.60,0,0,0,0,0,0,0,0,0,0,0
+EagleFord,coefficients,b_factor,0.4,0,0,0,0,0,0,0,0,0,0,0
+EagleFord,schedule,well_count,1,1,1,1,2,2,2,2,2,2,2,2
+Bakken,coefficients,qi,600,0,0,0,0,0,0,0,0,0,0,0
+Bakken,coefficients,di_annual,0.65,0,0,0,0,0,0,0,0,0,0,0
+Bakken,coefficients,b_factor,0.6,0,0,0,0,0,0,0,0,0,0,0
+Bakken,schedule,well_count,0,0,4,4,0,0,4,4,0,0,0,0
